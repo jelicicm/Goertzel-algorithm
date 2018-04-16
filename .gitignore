@@ -1,0 +1,10 @@
+# Ignore everything...
+*
+
+# ...except
+!.gitignore
+!Readme.md
+!/VHDL
+!Verilog
+!*.vhd
+!*.v
